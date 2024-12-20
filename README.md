@@ -1,3 +1,2 @@
 # Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp
-# ml-training
+I am learning Machine Learning in depth using Udemy
